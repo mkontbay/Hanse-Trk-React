@@ -1,0 +1,9 @@
+.placeholder-image-placeholder-image {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  position: relative;
+  background-size: cover;
+  background-image: url('https://www.instagram.com/p/C-lFongsNe2/?utm_source=ig_embed&amp;utm_campaign=loading');
+  background-position: center;
+}
